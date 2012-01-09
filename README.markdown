@@ -14,11 +14,11 @@ Parts of this bundle were ported from the official Ruby Haml TextMate bundle and
 
 ##Installation
 
-`cd ~/Library/Application\ Support/TextMate/Bundles/`
-
-`git clone git@github.com:flov/HAML-TextMate-Bundle.git`
-
-`osascript -e 'tell app "TextMate" to reload bundles'`
+````
+cd ~/Library/Application\ Support/TextMate/Bundles/
+git clone git@github.com:flov/HAML-TextMate-Bundle.git
+osascript -e 'tell app "TextMate" to reload bundles'
+````
 
 ##Troubleshooting
 
